@@ -1,7 +1,5 @@
 # ROS2_Topic
 
-**# topic_demo
-
 `topic_demo`는 ROS 2의 Topic 통신을 가장 단순한 형태로 보여주는 예제 패키지입니다.  
 `talker` 노드는 문자열 메시지를 발행하고, `listener` 노드는 같은 토픽을 구독해서 수신 내용을 출력합니다.
 
